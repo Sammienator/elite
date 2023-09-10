@@ -1,16 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@1,600&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 section{
     height: 100%;
     
 }
 p{
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Crimson Text', serif;
+    font-weight: bold;
     
 }
-h1,h2,h3, h4,header,footer,.btn,form, span{
-    font-family: 'Crimson Text', serif;
-    
+span, a{
+    color: black;
 }
 
 
